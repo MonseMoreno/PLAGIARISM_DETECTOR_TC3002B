@@ -2,7 +2,7 @@
 
 ## Detección de Plagio en Código Fuente mediante Machine Learning
 
-La reutilización indebida de código es un problema frecuente tanto en el ámbito académico (tareas, exámenes, MOOC s) como en la industria (repositorios internos, productos con licencias restrictivas).
+La reutilización indebida de código es un problema frecuente tanto en el ámbito académico (tareas, exámenes) como en la industria (repositorios internos, productos con licencias restrictivas).
 
 Este proyecto desarrolla un **modelo automático capaz de detectar plagio entre pares de archivos de código**.  
 El sistema se apoya en técnicas de Aprendizaje Automático supervisado y en una representación estadística de los programas basada en **cadenas de Markov**.
